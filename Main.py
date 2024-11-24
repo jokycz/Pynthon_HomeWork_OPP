@@ -18,4 +18,5 @@ if __name__ == "__main__":
     print()
 
     print(meat_grinder)
+    meat_grinder.turn_on()
     print(meat_grinder.device_work())
